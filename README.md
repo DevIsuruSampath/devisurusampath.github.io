@@ -1,5 +1,5 @@
 01.
-git init
+```git init```
 
 02.
 git remote add origin git@github.com:DevIsuruSampath/devisurusampath.github.io.git
